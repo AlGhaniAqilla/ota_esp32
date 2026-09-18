@@ -1,1 +1,1 @@
-1.0.2
+1.1.2|https://github.com/AlGhaniAqilla/ota_esp32/raw/refs/heads/main/firmware.bin
